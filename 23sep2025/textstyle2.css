@@ -1,0 +1,28 @@
+div {
+    display: flex;
+    margin: 30px;
+    border-radius: 20px;
+    padding: 20px;
+}
+.left {
+    width:960;
+    height: fit-content;
+    background-color: aqua;
+    text-align: justify;
+    font-size:larger;
+
+}
+
+.right {
+    width: 960;
+    height: fit-content;
+    background-color: skyblue;
+    text-align: justify;
+    font-size: larger;
+
+}
+body {
+    background-image:url(./background\ image.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

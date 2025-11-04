@@ -1,0 +1,7 @@
+body {
+        background-image: repeating-conic-gradient(red 10%,yellow 20%);
+        height: 200px;
+        width: 280px;
+        background-repeat: no-repeat;
+        border-radius: 50%;
+}

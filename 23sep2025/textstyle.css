@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    line-height: normal;
+    letter-spacing: normal;
+    word-spacing:normal;
+    text-indent:0%;
+}
+p {
+    text-align: center;
+    line-height: normal;
+    letter-spacing: 2;
+    word-spacing: 2;
+    text-indent: 2;
+    color: red;
+    font-size: larger;
+}

@@ -1,0 +1,15 @@
+img  {
+    border-width: 4px;
+    border-color: yellow;
+    border-style: solid;
+}
+div {
+    margin: 50px;
+    padding: 30px;
+    background-color: aqua;
+}
+a {
+    color: red;
+    text-decoration: underline;
+    text-align: justify;
+}
